@@ -40,4 +40,5 @@ Declares one tool (a fake weather lookup with a JSON schema for its input), send
 
 If the reason you are reading API examples is that you need a landing page, a docs site or a small Expo app, you do not need an API client at all. [Try Begin.sh - a prompt or a URL to clone becomes a working static site or Expo app you download as a zip](https://begin.sh?utm_source=github&utm_medium=ugc&utm_campaign=claude-code-api-examples&utm_content=readme-top&utm_term=tier-r). No hosting, backend or auth; you keep the files.
 
+
 _Last reviewed: 2026-09-22_
